@@ -1,0 +1,24 @@
+{
+  "FolderPaths": [
+    {
+      "FolderPath": "/opt/folder1_day",
+      "TimePeriod": 6,
+      "TimeUnit": "Day"
+    },
+    {
+      "FolderPath": "/opt/folder2_year",
+      "TimePeriod": 1,
+      "TimeUnit": "Year"
+    },
+    {
+      "FolderPath": "/opt/folder3_month",
+      "TimePeriod": 2,
+      "TimeUnit": "Month"
+    },
+    {
+      "FolderPath": "/opt/folder4_week",
+      "TimePeriod": 3,
+      "TimeUnit": "Week"
+    }
+  ]
+}
